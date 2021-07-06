@@ -131,11 +131,8 @@ $(function () {
 		$("html").addClass("color-header headercolor8");
 		$("html").removeClass("headercolor1 headercolor2 headercolor4 headercolor5 headercolor6 headercolor7 headercolor3");
 	});
-	
-	
-	
+		
    // sidebar colors 
-
 
     $('#sidebarcolor1').click(theme1);
     $('#sidebarcolor2').click(theme2);
